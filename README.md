@@ -1,2 +1,2 @@
-Projects done in C++
+Projects done in C++.
 Game called Boulder Blaster
